@@ -33,6 +33,7 @@ export default function Page() {
             <section className="flex flex-col items-start gap-3 sm:gap-4">
                 <ContextAlert />
                 <h1 className="mb-0">Netlify Platform Starter - Next.js</h1>
+                <p>This is a branch preview deployment</p>
                 <p className="text-lg">Get started with Next.js and Netlify in seconds.</p>
                 <Link
                     href="https://docs.netlify.com/frameworks/next-js/overview/"
